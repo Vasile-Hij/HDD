@@ -1,0 +1,23 @@
+Object oriented programming languages
+While Simula is credited as the first object oriented programming language, the most popular OOP languages are:
+
+Java
+JavaScript
+Python
+C++
+Visual Basic .NET
+Ruby
+Scala
+PHP
+OOPSLA is the annual conference for Object Oriented Programming Systems, Languages and Applications.
+
+
+Criticism of OOP
+The object oriented programming model has been criticized by developers for multiple reasons. The largest concern is that OOP overemphasizes the data component of software development and does not focus enough on computation or algorithms. Additionally, OOP code may be more complicated to write and take longer to compile.
+
+Alternative methods to OOP include:
+
+functional programming
+structured programming
+imperative programming
+Most advanced programming languages give developers the option to combine these models.
